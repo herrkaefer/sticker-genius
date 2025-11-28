@@ -1,0 +1,5 @@
+{
+  "name": "StickerGenius",
+  "description": "Generate custom high-quality sticker sheets from your images using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
